@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\VarijableVježba3\VarijableVježba3\bin\Debug\VarijableVježba3.exe.config
+C:\Users\denim\source\repos\VarijableVježba3\VarijableVježba3\bin\Debug\VarijableVježba3.exe
+C:\Users\denim\source\repos\VarijableVježba3\VarijableVježba3\bin\Debug\VarijableVježba3.pdb
+C:\Users\denim\source\repos\VarijableVježba3\VarijableVježba3\obj\Debug\VarijableVježba3.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\VarijableVježba3\VarijableVježba3\obj\Debug\VarijableVježba3.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\VarijableVježba3\VarijableVježba3\obj\Debug\VarijableVježba3.exe
+C:\Users\denim\source\repos\VarijableVježba3\VarijableVježba3\obj\Debug\VarijableVježba3.pdb
